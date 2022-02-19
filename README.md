@@ -1,6 +1,6 @@
-### Hi there 👋
+### Bem - Vindos!
 
-
+Google Developer Student Clubs - UFBA é um grupo de estudantes universitários que busca disseminar tecnologia. Apoiado por @googledevs
 
 <div align="center>
   <a href="https://github.com/GDSCUFBA">
