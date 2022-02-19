@@ -19,6 +19,7 @@ Google Developer Student Clubs - UFBA é um grupo de estudantes universitários 
  ##
  <div>
  <a href = "mailto:gdscufba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "https://www.instagram.com/gdsc_ufba/"><img src="https://img.shields.io/badge/-Instagram -%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <div> 
 
 
